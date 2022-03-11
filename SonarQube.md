@@ -1,0 +1,1 @@
+is an open-source platform that inspects source code for quality

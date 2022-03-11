@@ -1,0 +1,1 @@
+This is the recommended library to integrate Python applications with Application Insights and to use distributed tracing

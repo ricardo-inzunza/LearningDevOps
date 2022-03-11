@@ -1,0 +1,1 @@
+The checks performed by your application through a health check endpoint

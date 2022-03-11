@@ -1,0 +1,1 @@
+can be used to enforce requirements on resource creation and management through policies

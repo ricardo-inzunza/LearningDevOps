@@ -1,0 +1,1 @@
+Allows you to run multiple jobs at the same time i.e release pipelines, feature pipelines and master pipelines though by default it is sequential

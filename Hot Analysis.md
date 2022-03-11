@@ -1,0 +1,1 @@
+Time critical analysis of current state and cause

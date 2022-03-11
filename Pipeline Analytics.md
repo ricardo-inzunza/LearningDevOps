@@ -1,0 +1,1 @@
+allows you to monitor pipeline health. This accrues data about the health of your pipeline over time an reports on metrics and trends.

@@ -1,0 +1,1 @@
+is the automatic recording and transmission of data from remote or inaccessible sources to an IT system in a different location for monitoring and analysis.

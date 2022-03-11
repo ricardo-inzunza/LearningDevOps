@@ -1,0 +1,1 @@
+store values that you want to control and make available across multiple pipelines

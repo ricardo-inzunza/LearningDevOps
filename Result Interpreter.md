@@ -1,0 +1,1 @@
+The system calling and interpreting the health check response

@@ -1,0 +1,1 @@
+is a cloud service that helps developers monitor the health of an application, delivering the data needed to understand what happens when an app fails during testing or in the wild.

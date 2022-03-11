@@ -1,0 +1,1 @@
+Configuration management platform that allows us to manage the state of our environment.

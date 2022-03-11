@@ -1,0 +1,1 @@
+allow you to encapsulate a sequence of already defined tasks into a single reusable task that can be added to a pipeline, like any other task

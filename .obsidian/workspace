@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "b0b40e78e0569957",
+    "type": "split",
+    "children": [
+      {
+        "id": "33525a0e72509ae4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Developing a Security and Compliance Plan/Designing an Authentication and Authorization Strategy/Implementing Azure AD Application and DevOps Integration.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cccf0ae5277fb81",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5cfcbc617c5349e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86f2f296608212f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bddc7384d052b39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 443.50512313842773
+  },
+  "right": {
+    "id": "841d795831f81ae2",
+    "type": "split",
+    "children": [
+      {
+        "id": "77b71ab9bfcd5d80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cbe84d93542fc3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Developing a Security and Compliance Plan/Designing an Authentication and Authorization Strategy/Implementing Azure AD Application and DevOps Integration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "33525a0e72509ae4",
+  "lastOpenFiles": [
+    "Developing a Security and Compliance Plan/Designing an Authentication and Authorization Strategy/Implementing Azure AD Application and DevOps Integration.md",
+    "DevOps Service Connections.md",
+    "Managed Identity.md",
+    "Service Principals.md",
+    "Developing a Security and Compliance Plan/Designing an Authentication and Authorization Strategy/Using Azure Authentication and Authorization.md",
+    "Need to study more/Topics to revisit.md",
+    "Privileged Identity Management (PIM).md",
+    "Sharepoint Groups.md",
+    "Microsoft 365 Groups.md",
+    "Dynamic Membership.md"
+  ]
+}

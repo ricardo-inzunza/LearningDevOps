@@ -1,0 +1,1 @@
+are customizable telemetry. You can hit Edit and it will give you the query in KQL, and you can customize it however you want.

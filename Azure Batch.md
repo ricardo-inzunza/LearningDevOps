@@ -1,0 +1,2 @@
+At its core, Azure Batch runs virtual Machines to tackle your batch workloads
+You can utilize the same monitoring and alerting capabilities with Azure Batch as you would with your other virtual machines.
