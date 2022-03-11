@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Developing a Security and Compliance Plan/Designing an Authentication and Authorization Strategy/Implementing Azure AD Application and DevOps Integration.md",
+            "file": "AZ-400 Virtual training Day/Learning Objectives/Define and Implement a continuous delivery and release management strategy (Objective).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developing a Security and Compliance Plan/Designing an Authentication and Authorization Strategy/Implementing Azure AD Application and DevOps Integration.md",
+                "file": "AZ-400 Virtual training Day/Learning Objectives/Define and Implement a continuous delivery and release management strategy (Objective).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "33525a0e72509ae4",
   "lastOpenFiles": [
+    "AZ-400 Virtual training Day/Learning Objectives/Define and Implement a continuous delivery and release management strategy (Objective).md",
+    "Puppet.md",
+    "AZ-400 Virtual training Day/Learning Objectives/Communicate Deployment and release information with business stakeholders (Objective).md",
+    "Developing a Security and Compliance Plan/Designing an Authentication and Authorization Strategy/Using Azure Authentication and Authorization.md",
     "Developing a Security and Compliance Plan/Designing an Authentication and Authorization Strategy/Implementing Azure AD Application and DevOps Integration.md",
     "DevOps Service Connections.md",
     "Managed Identity.md",
     "Service Principals.md",
-    "Developing a Security and Compliance Plan/Designing an Authentication and Authorization Strategy/Using Azure Authentication and Authorization.md",
     "Need to study more/Topics to revisit.md",
-    "Privileged Identity Management (PIM).md",
-    "Sharepoint Groups.md",
-    "Microsoft 365 Groups.md",
-    "Dynamic Membership.md"
+    "Privileged Identity Management (PIM).md"
   ]
 }

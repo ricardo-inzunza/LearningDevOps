@@ -1,0 +1,1 @@
+In computing, Puppet is a software configuration management tool which includes its own declarative language to describe system configuration.
